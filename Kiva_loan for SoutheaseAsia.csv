@@ -1,0 +1,173 @@
+#,country,sector,repayment_interval,total_borrowers,total_loan_requested,total_funded_receivable,funding_gap_amount,funding_completion_rate,avg_term_months,avg_loan_size
+1,Cambodia,Agriculture,monthly,10488,9763125,9021025,742100,92.4,16.7,930.89
+2,Cambodia,Personal Use,monthly,18077,4238200,4160275,77925,98.16,9.8,234.45
+3,Cambodia,Housing,monthly,2105,1814600,1753925,60675,96.66,18.9,862.04
+4,Cambodia,Education,monthly,1331,1650225,1630475,19750,98.8,41.3,1239.84
+5,Cambodia,Food,monthly,1178,1071975,980225,91750,91.44,16.3,910
+6,Cambodia,Retail,monthly,319,276425,254725,21700,92.15,16.9,866.54
+7,Cambodia,Transportation,monthly,234,249200,235700,13500,94.58,18.3,1064.96
+8,Cambodia,Services,monthly,224,196775,180025,16750,91.49,16.5,878.46
+9,Cambodia,Construction,monthly,177,156400,150950,5450,96.52,17.7,883.62
+10,Cambodia,Arts,monthly,125,97175,97175,0,100,15.6,777.4
+11,Cambodia,Arts,bullet,122,53125,53125,0,100,8,435.45
+12,Cambodia,Education,bullet,40,45400,45400,0,100,20,1135
+13,Cambodia,Clothing,monthly,41,39150,35700,3450,91.19,16.3,954.88
+14,Cambodia,Food,irregular,8,36375,36375,0,100,10,4546.88
+15,Cambodia,Manufacturing,monthly,42,34100,33000,1100,96.77,16.5,811.9
+16,Cambodia,Personal Use,irregular,161,29600,29600,0,100,9,183.85
+17,Cambodia,Health,monthly,46,29025,29025,0,100,12.5,630.98
+18,Cambodia,Agriculture,bullet,47,21400,21400,0,100,11.1,455.32
+19,Cambodia,Arts,irregular,1,20000,20000,0,100,22,20000
+20,Cambodia,Agriculture,irregular,22,17375,17375,0,100,10.4,789.77
+21,Cambodia,Education,irregular,19,10000,10000,0,100,13.3,526.32
+22,Cambodia,Entertainment,monthly,7,7150,5925,1225,82.87,20,1021.43
+23,Cambodia,Wholesale,monthly,7,6275,6275,0,100,22.1,896.43
+24,Cambodia,Housing,irregular,4,2000,2000,0,100,7.8,500
+25,Cambodia,Services,irregular,2,1450,1450,0,100,6.5,725
+26,Cambodia,Transportation,irregular,1,750,750,0,100,19,750
+27,Cambodia,Construction,irregular,2,525,525,0,100,10,262.5
+28,Cambodia,Personal Use,bullet,1,500,500,0,100,14,500
+29,Indonesia,Agriculture,irregular,660,886875,886375,500,99.94,9.2,1343.75
+30,Indonesia,Housing,irregular,1964,865700,831300,34400,96.03,32.6,440.78
+31,Indonesia,Retail,bullet,1051,842200,734125,108075,87.17,13.1,801.33
+32,Indonesia,Services,bullet,841,651650,552275,99375,84.75,13.5,774.85
+33,Indonesia,Arts,bullet,101,274500,267775,6725,97.55,8.3,2717.82
+34,Indonesia,Food,irregular,323,230225,225175,5050,97.81,13.7,712.77
+35,Indonesia,Retail,irregular,252,216500,208525,7975,96.32,13.4,859.13
+36,Indonesia,Personal Use,irregular,349,207600,200950,6650,96.8,36.5,594.84
+37,Indonesia,Agriculture,bullet,62,180750,162400,18350,89.85,7.9,2915.32
+38,Indonesia,Education,irregular,165,143925,142850,1075,99.25,45.4,872.27
+39,Indonesia,Retail,monthly,60,64250,64250,0,100,29.6,1070.83
+40,Indonesia,Food,monthly,57,48100,48100,0,100,32.5,843.86
+41,Indonesia,Personal Use,monthly,16,42775,42775,0,100,25.6,2673.44
+42,Indonesia,Arts,irregular,65,38050,38050,0,100,13.5,585.38
+43,Indonesia,Agriculture,monthly,48,27300,27300,0,100,33.2,568.75
+44,Indonesia,Services,monthly,61,20125,20125,0,100,42.5,329.92
+45,Indonesia,Services,irregular,24,19825,19275,550,97.23,13.5,826.04
+46,Indonesia,Education,monthly,24,12150,12150,0,100,38.5,506.25
+47,Indonesia,Clothing,irregular,9,10275,9400,875,91.48,13.9,1141.67
+48,Indonesia,Construction,irregular,10,8700,8700,0,100,27.3,870
+49,Indonesia,Transportation,monthly,12,5875,5875,0,100,38,489.58
+50,Indonesia,Transportation,irregular,10,5775,5425,350,93.94,13.6,577.5
+51,Indonesia,Clothing,monthly,5,5725,5725,0,100,28.4,1145
+52,Indonesia,Construction,monthly,10,5375,5375,0,100,30.8,537.5
+53,Indonesia,Housing,monthly,10,4925,4925,0,100,38,492.5
+54,Indonesia,Manufacturing,irregular,4,4675,4675,0,100,13.5,1168.75
+55,Indonesia,Health,bullet,2,3875,3875,0,100,9,1937.5
+56,Indonesia,Arts,monthly,5,2275,2275,0,100,33.2,455
+57,Indonesia,Entertainment,irregular,2,1600,1600,0,100,13.5,800
+58,Indonesia,Health,irregular,4,1600,1600,0,100,36.5,400
+59,Indonesia,Manufacturing,monthly,2,1525,1525,0,100,38,762.5
+60,Indonesia,Wholesale,irregular,1,950,950,0,100,14,950
+61,Indonesia,Personal Use,bullet,4,775,775,0,100,10.3,193.75
+62,Lao People's Democratic Republic,Personal Use,bullet,1457,1070000,1068925,1075,99.9,9.6,734.39
+63,Lao People's Democratic Republic,Transportation,bullet,1,35000,35000,0,100,38,35000
+64,Lao People's Democratic Republic,Transportation,irregular,1,24000,24000,0,100,38,24000
+65,Lao People's Democratic Republic,Health,bullet,18,15950,15950,0,100,9.8,886.11
+66,Lao People's Democratic Republic,Retail,monthly,3,10800,10800,0,100,10,3600
+67,Lao People's Democratic Republic,Personal Use,monthly,4,4050,4050,0,100,9.5,1012.5
+68,Lao People's Democratic Republic,Housing,bullet,1,1175,1175,0,100,10,1175
+69,Lao People's Democratic Republic,Personal Use,irregular,1,525,525,0,100,9,525
+70,Philippines,Retail,irregular,50600,17986650,17686775,299875,98.33,8.8,355.47
+71,Philippines,Food,irregular,40459,13828250,13671875,156375,98.87,9.1,341.78
+72,Philippines,Agriculture,irregular,31040,9584325,9528500,55825,99.42,9.4,308.77
+73,Philippines,Services,irregular,4060,1618275,1612725,5550,99.66,8.7,398.59
+74,Philippines,Agriculture,monthly,4353,1566000,1521650,44350,97.17,11.3,359.75
+75,Philippines,Housing,irregular,5557,1285975,1268800,17175,98.66,22.1,231.42
+76,Philippines,Transportation,irregular,3591,1272375,1262775,9600,99.25,9,354.32
+77,Philippines,Retail,monthly,2938,1234175,1142825,91350,92.6,11.8,420.07
+78,Philippines,Clothing,irregular,2625,1014125,1003325,10800,98.94,8.8,386.33
+79,Philippines,Food,monthly,2211,912925,871100,41825,95.42,11.7,412.9
+80,Philippines,Agriculture,bullet,1376,773500,762700,10800,98.6,7.2,562.14
+81,Philippines,Housing,monthly,1225,596575,537850,58725,90.16,14.7,487
+82,Philippines,Arts,irregular,1967,573825,573825,0,100,9.3,291.73
+83,Philippines,Manufacturing,irregular,1352,484800,484800,0,100,8.9,358.58
+84,Philippines,Transportation,monthly,956,406300,385175,21125,94.8,11.8,425
+85,Philippines,Education,monthly,656,393375,381975,11400,97.1,19.7,599.66
+86,Philippines,Construction,irregular,664,264600,263150,1450,99.45,10.5,398.49
+87,Philippines,Education,irregular,825,259275,259275,0,100,11.8,314.27
+88,Philippines,Personal Use,irregular,1647,242600,239675,2925,98.79,13.4,147.3
+89,Philippines,Services,monthly,412,218275,209475,8800,95.97,12.8,529.79
+90,Philippines,Health,irregular,347,147925,147925,0,100,8.9,426.3
+91,Philippines,Health,monthly,280,140500,137075,3425,97.56,19.2,501.79
+92,Philippines,Personal Use,monthly,295,87675,82100,5575,93.64,14.1,297.2
+93,Philippines,Clothing,monthly,134,73625,67825,5800,92.12,11.7,549.44
+94,Philippines,Construction,monthly,134,70575,68700,1875,97.34,14.4,526.68
+95,Philippines,Education,bullet,291,65250,65250,0,100,35.1,224.23
+96,Philippines,Entertainment,irregular,124,53250,53250,0,100,9.7,429.44
+97,Philippines,Manufacturing,monthly,89,43975,43800,175,99.6,12.9,494.1
+98,Philippines,Wholesale,irregular,55,37550,37550,0,100,8.2,682.73
+99,Philippines,Manufacturing,bullet,3,18400,18400,0,100,14,6133.33
+100,Philippines,Retail,bullet,24,13350,12650,700,94.76,7.5,556.25
+101,Philippines,Food,bullet,21,13300,13025,275,97.93,7.3,633.33
+102,Philippines,Wholesale,monthly,19,13050,13050,0,100,14.2,686.84
+103,Philippines,Transportation,bullet,19,10725,10725,0,100,9.4,564.47
+104,Philippines,Entertainment,monthly,14,8950,8950,0,100,15,639.29
+105,Philippines,Arts,monthly,23,8325,8325,0,100,12.8,361.96
+106,Philippines,Housing,bullet,2,1900,1900,0,100,3.5,950
+107,Philippines,Health,bullet,4,1700,1700,0,100,3.3,425
+108,Philippines,Services,bullet,5,1425,1425,0,100,7,285
+109,Philippines,Clothing,bullet,1,125,125,0,100,4,125
+110,Philippines,Personal Use,bullet,1,125,125,0,100,7,125
+111,Philippines,Entertainment,bullet,1,75,75,0,100,5,75
+112,Thailand,Agriculture,bullet,96,245000,242250,2750,98.88,14.7,2552.08
+113,Thailand,Arts,bullet,81,173775,173775,0,100,16.1,2145.37
+114,Thailand,Services,monthly,2,4825,4825,0,100,42,2412.5
+115,Thailand,Clothing,bullet,1,2500,2500,0,100,14,2500
+116,Timor-Leste,Retail,monthly,1494,1359150,1274650,84500,93.78,14.7,909.74
+117,Timor-Leste,Education,monthly,231,213700,213700,0,100,14.8,925.11
+118,Timor-Leste,Clothing,monthly,226,208900,202250,6650,96.82,14.3,924.34
+119,Timor-Leste,Agriculture,monthly,227,183800,183800,0,100,14.6,809.69
+120,Timor-Leste,Food,monthly,208,181900,178825,3075,98.31,14.7,874.52
+121,Timor-Leste,Housing,monthly,73,81600,69200,12400,84.8,16.7,1117.81
+122,Timor-Leste,Services,monthly,59,55900,55525,375,99.33,15.4,947.46
+123,Timor-Leste,Construction,monthly,44,43400,43400,0,100,16.8,986.36
+124,Timor-Leste,Retail,irregular,48,38900,38900,0,100,14.6,810.42
+125,Timor-Leste,Arts,monthly,16,13500,13500,0,100,14.8,843.75
+126,Timor-Leste,Transportation,monthly,11,10000,10000,0,100,14.9,909.09
+127,Timor-Leste,Education,irregular,10,9600,9600,0,100,12.8,960
+128,Timor-Leste,Food,irregular,13,8500,8500,0,100,12.3,653.85
+129,Timor-Leste,Manufacturing,monthly,5,5500,5500,0,100,13.6,1100
+130,Timor-Leste,Clothing,irregular,6,4600,4600,0,100,18,766.67
+131,Timor-Leste,Construction,irregular,4,2900,2900,0,100,14.5,725
+132,Timor-Leste,Services,irregular,3,2650,2650,0,100,15,883.33
+133,Timor-Leste,Agriculture,irregular,4,2200,2200,0,100,8.5,550
+134,Timor-Leste,Entertainment,monthly,2,1400,1400,0,100,14,700
+135,Timor-Leste,Health,monthly,1,1000,1000,0,100,15,1000
+136,Timor-Leste,Housing,irregular,1,1000,1000,0,100,22,1000
+137,Timor-Leste,Arts,irregular,1,1000,1000,0,100,24,1000
+138,Vietnam,Agriculture,monthly,1846,3317550,3085750,231800,93.01,15.5,1797.16
+139,Vietnam,Food,monthly,1272,2503025,2176700,326325,86.96,16.3,1967.79
+140,Vietnam,Housing,monthly,3363,2171675,2121025,50650,97.67,22.1,645.76
+141,Vietnam,Agriculture,irregular,726,1764825,1567100,197725,88.8,14.4,2430.89
+142,Vietnam,Housing,irregular,320,948100,713000,235100,75.2,20.1,2962.81
+143,Vietnam,Education,monthly,1149,796225,796225,0,100,16.9,692.97
+144,Vietnam,Retail,monthly,351,693425,570275,123150,82.24,16.1,1975.57
+145,Vietnam,Education,irregular,185,474700,473075,1625,99.66,14.6,2565.95
+146,Vietnam,Food,irregular,367,415700,410650,5050,98.79,11.8,1132.7
+147,Vietnam,Retail,irregular,327,352475,349750,2725,99.23,11.7,1077.91
+148,Vietnam,Services,monthly,178,336375,321675,14700,95.63,16.1,1889.75
+149,Vietnam,Manufacturing,monthly,96,181200,177975,3225,98.22,17,1887.5
+150,Vietnam,Clothing,monthly,94,175650,157350,18300,89.58,17.5,1868.62
+151,Vietnam,Services,irregular,132,153250,150600,2650,98.27,11.7,1160.98
+152,Vietnam,Construction,monthly,59,92325,91825,500,99.46,19.3,1564.83
+153,Vietnam,Manufacturing,irregular,63,70775,70775,0,100,11.3,1123.41
+154,Vietnam,Health,monthly,56,69750,69750,0,100,23.7,1245.54
+155,Vietnam,Clothing,irregular,50,66525,64275,2250,96.62,11.6,1330.5
+156,Vietnam,Agriculture,bullet,42,61525,61525,0,100,8.6,1464.88
+157,Vietnam,Personal Use,monthly,75,58150,51650,6500,88.82,23.4,775.33
+158,Vietnam,Health,irregular,19,40200,38675,1525,96.21,15.7,2115.79
+159,Vietnam,Housing,bullet,7,27175,25975,1200,95.58,13.1,3882.14
+160,Vietnam,Transportation,monthly,13,21375,16625,4750,77.78,18.2,1644.23
+161,Vietnam,Construction,irregular,11,20800,20800,0,100,12.4,1890.91
+162,Vietnam,Education,bullet,11,17025,17025,0,100,7.8,1547.73
+163,Vietnam,Personal Use,irregular,5,14375,14375,0,100,11.8,2875
+164,Vietnam,Entertainment,monthly,5,12000,12000,0,100,16.4,2400
+165,Vietnam,Wholesale,irregular,2,7250,7250,0,100,13,3625
+166,Vietnam,Arts,irregular,6,6925,6925,0,100,11.2,1154.17
+167,Vietnam,Health,bullet,3,5200,5200,0,100,8,1733.33
+168,Vietnam,Arts,monthly,3,4475,4475,0,100,18,1491.67
+169,Vietnam,Wholesale,monthly,2,3400,3400,0,100,16,1700
+170,Vietnam,Food,bullet,1,2425,2425,0,100,12,2425
+171,Vietnam,Transportation,irregular,1,2325,2325,0,100,13,2325
+172,Vietnam,Entertainment,irregular,1,950,950,0,100,11,950
