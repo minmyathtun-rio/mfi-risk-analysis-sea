@@ -12,8 +12,7 @@ This project analyzes liquidity and financial risk metrics across Microfinance I
 ## 📊 Interactive Dashboard
 👉 **[View Live Tableau Dashboard Here](https://public.tableau.com/app/profile/minmyat.htun/viz/SoutheastAsiaMicrofinanceRiskLiquidityAnalytics/Dashboard1)**
 
-![Dashboard Preview](SEA RISK_png.PNG)
-
+![Dashboard Preview](SEA%20RISK_png.PNG)
 ## 💡 Key Analytical Findings
 1. **Funding Shortfall:** Identified key funding gaps in specific sectors (e.g., Agriculture) in the SEA region.
 2. **Repayment Risk:** Analyzed loan terms vs. repayment completion rates to spot potential default risks.
